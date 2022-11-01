@@ -55,3 +55,5 @@ worst corner必须要选中norminal
 parameter的元器件选择，和device所在的config有关
 virtuoso -nocdsinit -nograph -restore code.il是命令行执行skill
 sst2存储格式是psfxl的两倍大，推荐用psfxl
+
+仿真目录中的netlist子目录中的runSimulation可以在terminal中跑
