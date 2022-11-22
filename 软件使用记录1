@@ -57,3 +57,5 @@ virtuoso -nocdsinit -nograph -restore code.il是命令行执行skill
 sst2存储格式是psfxl的两倍大，推荐用psfxl
 
 仿真目录中的netlist子目录中的runSimulation可以在terminal中跑
+
+用analog to digital可以把模拟信号转为数字信号，然后把数字信号输出成table，改好时间的format，存成文件。再按照vector的格式，更改文件。
