@@ -58,4 +58,4 @@ sst2存储格式是psfxl的两倍大，推荐用psfxl
 
 仿真目录中的netlist子目录中的runSimulation可以在terminal中跑
 
-用analog to digital可以把模拟信号转为数字信号，然后把数字信号输出成table，改好时间的format，存成文件。再按照vector的格式，更改文件。
+用analog to digital可以把模拟信号转为数字信号，然后把数字信号输出成table，改好时间的format，存成文件。再按照vector的格式，更改文件。仿真时，在testbench中加port，激励在simulation file中的vector中加。
